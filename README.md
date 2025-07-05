@@ -190,7 +190,7 @@ P.S.: если при запуске некоторые контейнеры б�
 
 <details> <summary>Chronograf</summary>
 
-![web](https://github.com/biparasite/10-monitoring-02-systems/blob/main/task_8.png "web")
+![web](https://github.com/biparasite/10-monitoring-02-systems/blob/main/task_8.jpg "web")
 
 </details>
 
@@ -235,7 +235,7 @@ P.S.: если при запуске некоторые контейнеры б�
 
 <details> <summary>Chronograf</summary>
 
-![web](https://github.com/biparasite/10-monitoring-02-systems/blob/main/task_8.png "web")
+![web](https://github.com/biparasite/10-monitoring-02-systems/blob/main/task_8.jpg "web")
 
 </details>
 
