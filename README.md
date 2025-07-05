@@ -142,7 +142,9 @@
 ## Ответ
 
 Pull-модель: Prometheus, Nagios
+
 Push-модель: TICK stack
+
 Гибридная модель: Zabbix, VictoriaMetrics
 
 ---
